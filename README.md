@@ -2,7 +2,7 @@
 
 ### *a tiny SANdeoki living on your desktop.*
 
-<img src="-3-Deokki preview images.gif" width="300">
+<img src="-3-Deokki preview images.png" width="300">
 
 摸摸头、戳戳脸颊、挠挠身体……  
 Deokki 会给你不同的反应 ♡  
@@ -52,7 +52,7 @@ Deokki 会给你不同的反应 ♡
 
 <div align="center">
 
-<img src="-3-Deokki preview images.png" width="300">
+<img src="-3-Deokki preview images.gif" width="300">
 
 </div>
 
