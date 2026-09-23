@@ -17,11 +17,9 @@ Deokki 会给你不同的反应 ♡
 
 **当前版本：v1.2.1**
 
-### ♡ Windows 版下载安装
+### 这次制作了 Windows 版，点击下方链接下载最新版：
 
-点击下方链接下载最新版：
-
-### 👉 [下载最新版 -3- Deokki ♡](https://github.com/Behonest1117/Deokki-desktop-pet/releases/latest)
+### 👉 [-3- Deokki ♡](https://github.com/Behonest1117/Deokki-desktop-pet/releases/latest)
 
 下载完成后，双击 `Deokki-Setup-v1.2.1.exe`，按照提示完成安装即可 ♡
 
