@@ -8,10 +8,11 @@
 
 **Pocketeez 系列的第 01 只桌面伙伴**
 
-摸摸头、戳戳脸颊、挠挠身体……  
+-3-Deokki是一只像素小紫猫
+摸摸头、戳戳脸颊、挠挠身体……猜猜哪个动作会触发I love you 3000呢？
 Deokki 会给你不同的反应 ♡
 
-本版本共设计了 **8 种互动**，欢迎慢慢解锁～
+本版本共设计了 **8 种互动**，欢迎解锁～
 
 </div>
 
@@ -19,13 +20,20 @@ Deokki 会给你不同的反应 ♡
 
 ## 💜 Pocketeez Series
 
-**Pocketeez** 是由 **Be.honest.** 制作的长期像素桌宠系列，名字来自 **Pocket + TEEZ**。
+**Pocketeez** 是由 **Be.honest.** 制作的像素桌宠系列，一共8只，名字来自 **Pocket + TEEZ**。
 
 希望把一群小小的角色“装进口袋”，在学习、工作、写论文或赶 ddl 的时候，放到电脑桌面上陪伴 ATINY。
 
 每一只 Pocketeez 都会拥有自己的角色设计、互动方式和独立版本。
 
-### 👉 [前往 Pocketeez 系列主页](https://github.com/Behonest1117/Pocketeez)
+### 👉 [前往 Pocketeez 系列主页了解详情](https://github.com/Behonest1117/Pocketeez)
+
+## 🗺️ Pocketeez Progress
+
+目前已发布：
+01 | **-3- Deokki**
+02 | **Cap' Jjoong**
+03-8 | To be continue...
 
 ---
 
@@ -52,6 +60,11 @@ Deokki 会给你不同的反应 ♡
 
 -3- Deokki 是一只住在电脑桌面上的电子宠物。
 
+- **-3-** 来自崔伞很喜欢用的嘟嘴小表情，表示“亲亲”
+- **Deokki** 来自 SANdeoki
+
+于是，就有了这只小小的像素猫猫 **-3- Deokki~ ♡**
+
 平时它会乖乖待在你的桌面上。和它互动时，例如摸摸头、戳戳脸颊、挠挠身体，Deokki 会给你不同的小动作和反应。
 
 希望梯尼在工作、学习的时候，这只小小的 Deokki 会一直陪着你 ♡
@@ -72,30 +85,13 @@ Deokki 会给你不同的反应 ♡
 
 ---
 
-## 🗺️ Pocketeez Progress
-
-| No. | Character | Status | Version |
-| --- | --- | --- | --- |
-| 01 | **-3- Deokki** | PUBLIC / RELEASED | Windows v1.2.1 |
-| 02 | HONGJOONG 对应角色 | IN DEVELOPMENT | Final name TBD |
-| 03–08 | Waiting | NOT STARTED | — |
-
-每只 Pocketeez 使用独立版本号和独立发布记录。
-
----
-
 ## 💌 开发者自述
 
 哈喽大家好，我是 **Be.honest.** ♡
 
 做这个 app，是想让喜欢伞尼的朋友们在工作或学习时，也有一只小小的 Deokki 一直待在桌面陪着你。
 
-- **-3-** 来自崔伞很喜欢用的嘟嘴小表情，表示“亲亲”
-- **Deokki** 来自 SANdeoki
-
-于是，就有了这只小小的像素猫猫 **-3- Deokki~ ♡**
-
-我会继续更新和维护 app，也欢迎告诉我你想让 Deokki 学会的新东西～
+我会继续更新和维护app，也会接着产出Pocketeez系列，欢迎大家持续关注，非常希望你能告诉我使用反馈、遇到的 bug，以及你想让 Deokki 学会的新东西 ♡
 
 ---
 
@@ -109,8 +105,6 @@ Deokki 会给你不同的反应 ♡
 
 **小红书 App 扫码，可以找到我**
 
-欢迎持续关注，也非常希望你能告诉我使用反馈、遇到的 bug，  
-以及你想让 Deokki 学会的新东西 ♡
 
 ### Have fun with -3- Deokki ♡
 
