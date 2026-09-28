@@ -113,7 +113,7 @@
 **小红书 App 扫码，可以找到我**
 
 
-### Have fun with -3- Deokki ♡
+### Hope you have fun with Pocketeez ♡
 
 </div>
 
